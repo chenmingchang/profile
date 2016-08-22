@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/ChenMingMac/Google Drive/Research/Papers/Draft/Chen-Ming/TOT_Phoswich-2016-02-17'
+let g:netrw_dirhist_2='/Users/ChenMingMac/Google Drive/Research/Papers/Draft/Chen-Ming/TOT_Phoswich-2016-02-17/testVim'
+let g:netrw_dirhist_3='/Users/ChenMingMac/LatexTest'
+let g:netrw_dirhist_4='/Users/ChenMingMac'
+let g:netrw_dirhist_5='/Users/ChenMingMac/testVim'

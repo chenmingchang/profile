@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_1='/Users/ChenMingMac/Google Drive/Research/Papers/Draft/Chen-Ming/TOT_Phoswich-2016-02-17'
+let g:netrw_dirhist_2='/Users/ChenMingMac/Google Drive/Research/Papers/Draft/Chen-Ming/TOT_Phoswich-2016-02-17/testVim'
